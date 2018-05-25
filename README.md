@@ -8,3 +8,4 @@ Presentations given by or for the Bluegrass Developers Guild. The presenters ret
 * [Honesty, Kindness and Inspiration: Pick Three](https://github.com/jstoebel/critical_response_talk) by [Jacob Stoebel](http://www.jstoebel.com/)
 * [Generalizing Biomedical Relation Classification with Neural Adversarial Domain Adaptation](https://github.com/joeblankenship1/presentations/blob/master/BDSG_relationExtraction.pdf) by Anthony Rios
 * [IPFS](https://github.com/bluegrass-devs/presentations/blob/master/BDSG_IPFS.pdf) by [Joe Blankenship](https://thejoeblankenship.com/)
+* [The Variable Crimes We Commit Against JavaScript](https://github.com/bluegrass-devs/presentations/blob/master/BDSG_The_Variable Crimes_We_Commit_Against_JavaScript.pdf) by [Julka Grodel](https://github.com/julka)
