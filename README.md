@@ -12,3 +12,5 @@ Presentations given by or for the Bluegrass Developers Guild. The presenters ret
 * [D3.js](https://github.com/bluegrass-devs/presentations/blob/master/D3js-6-28.pptx) by [Mitch Stutler](http://mitchstutler.com/)
 * [Swift for TensonFlow](https://github.com/bluegrass-devs/presentations/blob/master/Swift_for_Tensorflow.pdf) by [Michael Bates](http://mklbtz.com/)
 * [Data for Democracy: Code of Ethics Project](https://github.com/bluegrass-devs/presentations/blob/master/BDSG_d4d_ethics.pdf) by [Joe Blankenship](https://thejoeblankenship.com/)
+* [TECX 2019 - Cryptocurrency Cultures & the Value of Blockchain](https://github.com/bluegrass-devs/presentations/blob/master/BDSG_tecx_2019_blockchain.pdf) by [Joe Blankenship](https://thejoeblankenship.com/)
+
